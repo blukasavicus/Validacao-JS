@@ -1,0 +1,44 @@
+body{
+    background-color:#FFD67E ;
+    margin: 10%;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.nome{
+    font-size:large;
+}
+   
+
+   
+#button{
+    border-radius: 4px;
+    width: 30%;
+    padding: 8px;
+    margin: 10px;
+    background-color: #ffe8b7;
+}
+
+
+form{
+    margin: auto;
+    width: 50%;
+    padding: 10px;
+    border-style: outset;
+    border-radius: 4px;
+    background-color: #FFDC7E;
+}
+
+h1{
+    text-align: center;
+      }
+
+
+.icones{
+    width: 20px;
+}
+
+
